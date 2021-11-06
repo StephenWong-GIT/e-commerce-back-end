@@ -13,7 +13,7 @@
   
   ## Usage
   '''bash
-    Run the following command at the root of your project and answer the promted: 'mysql -u root -p', Enter PW when asked, source db/schema.sql, npm run seed, npm start
+    Run the following command at the root of your project and answer the promted: 'mysql -u root -p'> Enter PW when asked > source db/schema.sql > npm run seed > npm start
   '''
   
   ## License
