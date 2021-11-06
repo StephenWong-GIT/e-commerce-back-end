@@ -3,6 +3,11 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
   ## Description
   A mysql database and application back end for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
+  
+  ![Display](https://user-images.githubusercontent.com/83122828/140618482-8f81a0fa-3fda-436d-bb52-f7693ea98835.png)
+
+  
+  Video Link: https://streamable.com/jssb2o
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
