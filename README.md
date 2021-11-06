@@ -9,7 +9,7 @@
   - [Credits](#credits)
   - [License](#license)
   ## Installation
-  npm init > npm install mysql2 > npm install sequelize > npm sintall dotenv
+  npm init > npm install mysql2 > npm install sequelize > npm install dotenv
   
   ## Usage
   '''bash
